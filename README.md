@@ -1,3 +1,8 @@
+## Ubo pod setup
+ + sudo apt-get install portaudio19-dev libatlas-base-dev
+ + pip3 install pyaudio
+
+
 MIC HAT for Raspberry Pi
 ========================
 
